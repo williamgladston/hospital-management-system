@@ -36,25 +36,6 @@ JDBC Driver: mysql-connector-java
 
 Optional: Launch4j / Inno Setup (for packaging)
 
-📂 Project Structure
-
-hospital-management-system/
-├── src/
-│   ├── conn.java
-│   ├── Login.java
-│   ├── Reception.java
-│   ├── AddPatient.java
-│   ├── Room.java
-│   ├── DoctorInfo.java
-│   ├── Appointments.java
-│   ├── Billing.java
-│   ├── LabReports.java
-│   └── Feedback.java
-├── lib/
-│   └── mysql-connector-java-8.0.xx.jar
-├── HospitalManagementSystem.jar
-└── README.md
-
 
 🚀 How to Run
 
